@@ -15,6 +15,6 @@
 
 ```sh
 $ git clone "url this project"
-$ cd cypress-mocha-research
+$ cd cypress-web-automation-framework
 $ npm install
 ```
