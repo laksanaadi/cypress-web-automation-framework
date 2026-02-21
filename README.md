@@ -1,6 +1,6 @@
-#  Boilerplate WEBUI Automation Testing
+<img width="1536" height="768" alt="ChatGPT Image Feb 22, 2026, 05_46_41 AM" src="https://github.com/user-attachments/assets/f0b69e3a-e0cd-49a6-854f-183d742db2dc" />
 
-![1679031994000](https://github.com/user-attachments/assets/68da538a-9e45-4e7e-80f8-7e03f94b4b91)
+#  Boilerplate WEBUI Automation Testing
 
 > Cypress is a modern end-to-end testing framework designed for web applications. It provides a robust environment for writing and executing tests, with a focus on making it easy to set up, write, and maintain tests for web applications. https://www.cypress.io/
 
